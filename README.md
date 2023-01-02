@@ -1,18 +1,25 @@
+# [원티드] 프리온보딩(React Query) 사전과제
+
 안녕하세요, 김진솔이라고 합니다.
+
 올해로 4년차 웹개발자입니다.
+
 많이 배우고 싶습니다. 잘 부탁드립니다 :)
 
 Product name : To do List 관리 앱
 
 Framework : Next.js
+
 현재 Next관련 블로그를 포스팅 중입니다.
 
 https://velog.io/@kimtaru
 
 Style : tailwind.css
+
 etc : swr
 
 React Query를 적용하라는 언급이 없어서 swr을 적용했습니다!
+
 이번 기회를 통해 비동기 데이터 통신을 어떻게 적용해야 '더' 좋은지
 
 여기서 '더' 란
